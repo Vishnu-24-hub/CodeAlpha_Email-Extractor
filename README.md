@@ -1,4 +1,4 @@
-# -CodeAlpha_Email-Extractor
+# CodeAlpha_Email-Extractor
 # 📧 Email Extractor using Python
 
 ## 📌 Project Overview
